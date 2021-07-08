@@ -1,0 +1,8 @@
+/usr/lib/x86_64-linux-gnu/qt5/qml/Cutefish/Accounts/libcutefishaccounts_qmlplugins.so
+/usr/lib/x86_64-linux-gnu/qt5/qml/Cutefish/Accounts/qmldir
+/usr/lib/x86_64-linux-gnu/qt5/qml/Cutefish/Mpris/libcutefishmpris_qmlplugins.so
+/usr/lib/x86_64-linux-gnu/qt5/qml/Cutefish/Mpris/qmldir
+/usr/lib/x86_64-linux-gnu/qt5/qml/Cutefish/NetworkManagement/libcutefishnm_qmlplugins.so
+/usr/lib/x86_64-linux-gnu/qt5/qml/Cutefish/NetworkManagement/qmldir
+/usr/lib/x86_64-linux-gnu/qt5/qml/Cutefish/Screen/libcutefishscreen_qmlplugins.so
+/usr/lib/x86_64-linux-gnu/qt5/qml/Cutefish/Screen/qmldir

@@ -1,0 +1,169 @@
+{
+	"BUILD_DIR" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/mpris/cutefishmpris_qmlplugins_autogen",
+	"CMAKE_BINARY_DIR" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_BINARY_DIR" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/mpris",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/root/Downloads/cutefish/libcutefish/mpris",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/root/Downloads/cutefish/libcutefish/mpris/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/root/Downloads/cutefish/libcutefish",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/mpris.h",
+			"MU",
+			"EWIEGA46WW/moc_mpris.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/mpriscontroller.h",
+			"MU",
+			"EWIEGA46WW/moc_mpriscontroller.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/mpriscontroller_p.h",
+			"MU",
+			"EWIEGA46WW/moc_mpriscontroller_p.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/mprismanager.h",
+			"MU",
+			"EWIEGA46WW/moc_mprismanager.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/mprisplayer.h",
+			"MU",
+			"EWIEGA46WW/moc_mprisplayer.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/mprisplayer_p.h",
+			"MU",
+			"EWIEGA46WW/moc_mprisplayer_p.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/mprisqt.h",
+			"MU",
+			"EWIEGA46WW/moc_mprisqt.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/qtdbusextended/dbusextended.h",
+			"MU",
+			"6QFREAZ7D2/moc_dbusextended.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/qtdbusextended/dbusextendedabstractinterface.h",
+			"MU",
+			"6QFREAZ7D2/moc_dbusextendedabstractinterface.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/qtdbusextended/dbusextendedpendingcallwatcher_p.h",
+			"MU",
+			"6QFREAZ7D2/moc_dbusextendedpendingcallwatcher_p.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/mpris/cutefishmpris_qmlplugins_autogen/include",
+	"MOC_COMPILATION_FILE" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/mpris/cutefishmpris_qmlplugins_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_DBUS_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"cutefishmpris_qmlplugins_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/mpris",
+		"/root/Downloads/cutefish/libcutefish/mpris",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQuick",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQmlModels",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQml",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtDBus",
+		"/usr/include/c++/10",
+		"/usr/include/x86_64-linux-gnu/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/10/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/mpris/cutefishmpris_qmlplugins_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/mpris/CMakeFiles/cutefishmpris_qmlplugins_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/mpris/CMakeFiles/cutefishmpris_qmlplugins_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/root/Downloads/cutefish/libcutefish/mpris/mpris.cpp", "MU" ],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/mpriscontroller.cpp",
+			"MU"
+		],
+		[ "/root/Downloads/cutefish/libcutefish/mpris/mprismanager.cpp", "MU" ],
+		[ "/root/Downloads/cutefish/libcutefish/mpris/mprisplayer.cpp", "MU" ],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/mprisplayeradaptor.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/mprisplayerinterface.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/mprisrootadaptor.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/mprisrootinterface.cpp",
+			"MU"
+		],
+		[ "/root/Downloads/cutefish/libcutefish/mpris/qmlplugins.cpp", "MU" ],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/qtdbusextended/dbusextendedabstractinterface.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/mpris/qtdbusextended/dbusextendedpendingcallwatcher.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

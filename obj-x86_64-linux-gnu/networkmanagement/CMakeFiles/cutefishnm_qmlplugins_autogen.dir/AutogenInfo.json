@@ -1,0 +1,244 @@
+{
+	"BUILD_DIR" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/networkmanagement/cutefishnm_qmlplugins_autogen",
+	"CMAKE_BINARY_DIR" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_BINARY_DIR" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/networkmanagement",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/root/Downloads/cutefish/libcutefish/networkmanagement",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/root/Downloads/cutefish/libcutefish/networkmanagement/CMakeLists.txt",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5NetworkManagerQt/KF5NetworkManagerQtConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5NetworkManagerQt/KF5NetworkManagerQtConfig.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5NetworkManagerQt/KF5NetworkManagerQtTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5NetworkManagerQt/KF5NetworkManagerQtTargets-debian.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5NetworkManagerQt/KF5NetworkManagerQtQchTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5ModemManagerQt/KF5ModemManagerQtConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5ModemManagerQt/KF5ModemManagerQtConfig.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5ModemManagerQt/KF5ModemManagerQtTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5ModemManagerQt/KF5ModemManagerQtTargets-debian.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5ModemManagerQt/KF5ModemManagerQtQchTargets.cmake",
+		"/usr/share/cmake-3.18/Modules/exportheader.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/root/Downloads/cutefish/libcutefish",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/activeconnection.h",
+			"MU",
+			"EWIEGA46WW/moc_activeconnection.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/appletproxymodel.h",
+			"MU",
+			"EWIEGA46WW/moc_appletproxymodel.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/configuration.h",
+			"MU",
+			"EWIEGA46WW/moc_configuration.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/enabledconnections.h",
+			"MU",
+			"EWIEGA46WW/moc_enabledconnections.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/enums.h",
+			"MU",
+			"EWIEGA46WW/moc_enums.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/handler.h",
+			"MU",
+			"EWIEGA46WW/moc_handler.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/identitymodel.h",
+			"MU",
+			"EWIEGA46WW/moc_identitymodel.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/networkitemslist.h",
+			"MU",
+			"EWIEGA46WW/moc_networkitemslist.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/networkmodel.h",
+			"MU",
+			"EWIEGA46WW/moc_networkmodel.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/networkmodelitem.h",
+			"MU",
+			"EWIEGA46WW/moc_networkmodelitem.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/qmlplugins.h",
+			"MU",
+			"EWIEGA46WW/moc_qmlplugins.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/uiutils.h",
+			"MU",
+			"EWIEGA46WW/moc_uiutils.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/wifisettings.h",
+			"MU",
+			"EWIEGA46WW/moc_wifisettings.cpp"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/wiressitemsettings.h",
+			"MU",
+			"EWIEGA46WW/moc_wiressitemsettings.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/networkmanagement/cutefishnm_qmlplugins_autogen/include",
+	"MOC_COMPILATION_FILE" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/networkmanagement/cutefishnm_qmlplugins_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_DBUS_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"QT_XML_LIB",
+		"cutefishnm_qmlplugins_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/networkmanagement",
+		"/root/Downloads/cutefish/libcutefish/networkmanagement",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQuick",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQmlModels",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQml",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtDBus",
+		"/usr/include/KF5/NetworkManagerQt",
+		"/usr/include/libnm",
+		"/usr/include/libmount",
+		"/usr/include/blkid",
+		"/usr/include/glib-2.0",
+		"/usr/lib/x86_64-linux-gnu/glib-2.0/include",
+		"/usr/include/KF5",
+		"/usr/include/KF5/ModemManagerQt",
+		"/usr/include/ModemManager",
+		"/usr/include/x86_64-linux-gnu/qt5/QtXml",
+		"/usr/include/c++/10",
+		"/usr/include/x86_64-linux-gnu/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/10/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/networkmanagement/cutefishnm_qmlplugins_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/networkmanagement/CMakeFiles/cutefishnm_qmlplugins_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/networkmanagement/CMakeFiles/cutefishnm_qmlplugins_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/activeconnection.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/appletproxymodel.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/configuration.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/enabledconnections.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/enums.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/handler.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/identitymodel.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/networkitemslist.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/networkmodel.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/networkmodelitem.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/qmlplugins.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/uiutils.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/wifisettings.cpp",
+			"MU"
+		],
+		[
+			"/root/Downloads/cutefish/libcutefish/networkmanagement/wiressitemsettings.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

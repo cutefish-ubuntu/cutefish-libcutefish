@@ -1,0 +1,5 @@
+-I/root/Downloads/cutefish/libcutefish/accounts
+-I/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/accounts
+-o
+/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/accounts/accounts_interface.moc
+/root/Downloads/cutefish/libcutefish/obj-x86_64-linux-gnu/accounts/accounts_interface.h

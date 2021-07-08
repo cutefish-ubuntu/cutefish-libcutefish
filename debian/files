@@ -1,0 +1,3 @@
+libcutefish-dbgsym_0.1_amd64.ddeb debug optional automatic=yes
+libcutefish_0.1_amd64.buildinfo devel optional
+libcutefish_0.1_amd64.deb devel optional

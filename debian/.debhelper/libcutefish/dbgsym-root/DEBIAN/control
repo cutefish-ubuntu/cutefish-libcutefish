@@ -1,0 +1,13 @@
+Package: libcutefish-dbgsym
+Package-Type: ddeb
+Source: libcutefish
+Version: 0.1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Installed-Size: 7742
+Depends: libcutefish (= 0.1)
+Section: debug
+Priority: optional
+Description: debug symbols for libcutefish
+Build-Ids: 15a80174e01ccfd14469b2bf74a25708f87cc52a b35bfbb31133d0e2c8488650f895b1040d49abba b70473ffe881d2ec2428e0fea36e95a963563ca6 fa3899220e848cd2da8541c53ddf9c8339256f59
